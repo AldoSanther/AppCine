@@ -1,6 +1,7 @@
 from django.db import models
 
 # Create your models here.
+# Eston son los modelos en DJANGO por JOMILORO
 
 
 class Movie(models.Model):
